@@ -17,3 +17,10 @@
     transition: all 900ms ease;
 }
 
+.box  img{
+    width: 200%;
+    height: calc(100% - 10vh);
+    object-fit: cover;
+    transition: all 900ms
+}
+
