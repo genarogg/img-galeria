@@ -24,3 +24,12 @@
     transition: all 900ms
 }
 
+.box span{
+    font-size: 35px;    
+    font-size: 'Napoleodoni';
+    display: block;
+    text-align: center;
+    height: 10vh;
+    line-height: 2.6
+}
+
